@@ -1,0 +1,163 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - KarnelTravelGuideWeb</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link href="~/js/site.js"  rel="stylesheet" />
+    <link rel="stylesheet" href="~/KarnelTravelGuideWeb.styles.css" asp-append-version="true" />
+</head>
+<body>
+    <div id="loading">Loading...</div>
+    <div id="content" style="display:none;">
+    <header id="mainHeader">
+        <div class="search-container" id="search-container">
+            <div class="search-content">
+                <div class="row">
+                    <div class="col-lg-11">
+                        <label for="">What are you looking for?</label>
+                        <input type="text" placeholder="Please enter the location you want to go" >
+                    </div>
+                    <div class="btn-close-search col-lg-1" onclick="closeSearch()"><img src="~/Images/header/icons8-close-24.png" alt=""></div>
+                </div>
+            </div>
+        </div>
+        <div class="header-area">
+            <div class="header-container">
+                <div class="row" style="align-items: center; justify-content: center;height: 100%; ">
+                    <div class="logo col-lg-3">
+                        <a href=""><img src="~/Images/header/karnel-travel-high-resolution-logo-transparent (1).png" alt=""></a>
+                    </div>
+                    <div class="menu col-lg-7">
+                        <nav>
+                            <ul class="menu-list">
+                                <li>
+                                    <a href="">Home</a>
+                                </li>
+                                <li>
+                                    <a href="">About</a>
+                                </li>
+                                <li>
+                                    <a href="">Search</a>
+                                </li>
+                                <li class="menu-information">
+                                    <a href="">Information <span></span></a>
+                                    <ul class="information-list">
+                                        <li><a href="">Tourist Spot</a></li>
+                                        <li><a href="">Hotel</a></li>
+                                        <li><a href="">Retaurant</a></li>
+                                        <li><a href="">Resort</a></li>
+                                        <li><a href="">Transportation</a></li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <a href="">Contact</a>
+                                </li>
+                            </ul>
+                        </nav>
+                    </div>
+                    <div class="search col-lg-2">
+                        <button onclick="openSearch()">
+                            <img src="~/Images/header/icons8-search-24 (1).png" alt="">
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <div>
+        <main role="main">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer>
+        <div class="footer-container">
+            <div class="footer1 row">
+                <div class="follow-container col-4">
+                    <div class="footer-title">
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti, quidem hic nisi culpa fugit excepturi rem quae. Magni vitae explicabo quis architecto non numquam consequuntur nostrum repellendus? Similique, animi vitae!
+                    </div>
+                    <div class="follow-icon">
+                        <h2>Follow Us On:</h2>
+                        <ul class="follow-icon-list">
+                            <li><a href=""><img src="~/Images/footer/icons8-instagram-48.png" alt=""></a></li>
+                            <li><a href=""><img src="~/Images/footer/icons8-facebook-48.png" alt=""></a></li>
+                            <li><a href=""><img src="~/Images/footer/icons8-twitterx-48.png" alt=""></a></li>
+                            <li><a href=""><img src="~/Images/footer/icons8-pinterest-48.png" alt=""></a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="quick-container col-2">
+                    <h2>Quick Link</h2>
+                    <ul class="quickLink-list">
+                        <li><a href="">About Us</a></li>
+                        <li><a href="">Contact Us</a></li>
+                        <li><a href="">Tourist Spot Informations</a></li>
+                        <li><a href="">Hotel Informations</a></li>
+                        <li><a href="">Resort Informations</a></li>
+                        <li><a href="">Restaurant Informations</a></li>
+                        <li><a href="">Transportation Informations</a></li>
+                    </ul>
+                </div>
+                <div class="famous-container col-1">
+                    <h2>Famous</h2>
+                    <ul class="tourist-list">
+                        <li>Vietnam</li>
+                        <li>Korea</li>
+                        <li>France</li>
+                        <li>Spain</li>
+                        <li>Australia</li>
+                        <li>Russia</li>
+                    </ul>
+                </div>
+                <div class="gallery-container col-5">
+                    <h2>Gallery</h2>
+                    <div class="row">
+                        <div class="gallery-img col-4">
+                            <img src="~/Images/footer/footer1.jpg" alt="">
+                        </div>
+                        <div class="gallery-img col-4">
+                            <img src="~/Images/footer/footer2.jpg" alt="">
+                        </div>
+                        <div class="gallery-img col-4">
+                            <img src="~/Images/footer/footer3.jpg" alt="">
+                        </div>
+                        <div class="gallery-img col-4">
+                            <img src="~/Images/footer/footer4.jpg" alt="">
+                        </div>
+                        <div class="gallery-img col-4">
+                            <img src="~/Images/footer/footer5.jpg" alt="">
+                        </div>
+                        <div class="gallery-img col-4">
+                            <img src="~/Images/footer/footer6.jpg" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="footer2">
+                <h3>Contact Information</h3>
+                <a href="">
+                    <img src="~/Images/footer/icons8-phone-48.png" alt="">
+                    123456789
+                </a>
+                <a href="">
+                    <img src="~/Images/footer/icons8-email-48.png" alt="">
+                    group2@aptech.vn
+                </a>
+                <a href="">
+                    <img src="~/Images/footer/icons8-map-48.png" alt="">
+                    C5 building, 175 Tay Son, Dong Da, Ha Noi
+                </a>
+            </div>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
