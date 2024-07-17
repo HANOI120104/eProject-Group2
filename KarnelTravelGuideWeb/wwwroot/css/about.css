@@ -1,0 +1,235 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: #ffffff;
+}
+
+.banner-container {
+    background-image: linear-gradient(rgba(0, 5, 15, .6), rgba(0, 5, 15, .6)), url(/Homepage/Img/1.jpg);
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 150px 0;
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+
+    .banner-container h2,
+    li,
+    ul,
+    span,
+    a {
+        color: #ffffff;
+        background: transparent;
+    }
+
+    .banner-container ul {
+        list-style: none;
+        display: flex;
+        justify-content: center;
+        padding-left: 0;
+    }
+
+    .banner-container a {
+        color: #ffffff;
+        text-decoration: none;
+    }
+
+.aboutus-container {
+    margin-bottom: 200px;
+}
+
+.img-section-content {
+    padding: 5px;
+}
+
+    .img-section-content img {
+        width: 100%;
+        object-fit: cover;
+        border-radius: 8px;
+    }
+
+.heading-about {
+    font-weight: 800;
+    background: linear-gradient(to right, #000000, #ff4838);
+    background-clip: content-box;
+    color: transparent;
+}
+
+.tab-content-btn {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.infor-item {
+    padding: 15px;
+    text-align: center;
+    border: 0.3px solid #ffffff;
+}
+
+    .infor-item h2 {
+        font-weight: 800;
+    }
+
+    .infor-item:hover {
+        color: #ff4838;
+        box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.1) inset, -10px -10px 10px #f9f9f90a inset;
+        transition: ease 0.2s;
+        border: 0.1px solid #00000008;
+    }
+
+#content-2 {
+    display: none;
+}
+
+#content-3 {
+    display: none;
+}
+
+#img-2 {
+    display: none;
+}
+
+#img-3 {
+    display: none;
+}
+
+.package-section {
+    justify-content: start !important;
+    padding: 5px;
+}
+
+.package-img {
+    padding: 10px !important;
+}
+
+    .package-img img {
+        width: 100%;
+        object-fit: cover;
+        border-radius: 8px;
+    }
+
+/* slider */
+.menu-item-container {
+    position: relative;
+    height: 100%;
+}
+
+.menu-item-container {
+    background: #eee;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    color: #000;
+    margin: 0;
+    padding: 0;
+}
+
+.swiper {
+    width: 100%;
+    height: 100%;
+}
+
+.swiper-slide {
+    padding: 50px 200px;
+    text-align: center;
+    font-size: 18px;
+    background: #ffffff;
+    flex-direction: column;
+    display: flex !important;
+    justify-content: center;
+    align-items: center;
+}
+
+    .swiper-slide img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+
+.swiper {
+    width: 100%;
+    height: 500px;
+    margin: 20px 0;
+}
+
+.swiper-pagination {
+    background: none;
+}
+/* slide end */
+.menu-item-container {
+    color: #ffffff;
+}
+
+.slide-section-1 {
+    background-attachment: fixed;
+    background-image: linear-gradient(rgba(0, 5, 15, 0.8), rgba(0, 5, 15, .8)), url('/Images/index/pexels-photo-346529.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.slide-section-2 {
+    background-attachment: fixed;
+    background-image: linear-gradient(rgba(0, 5, 15, .8), rgba(0, 5, 15, .8)), url('/Images/index/pexels-photo-346529.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.slide-section-3 {
+    background-attachment: fixed;
+    background-image: linear-gradient(rgba(0, 5, 15, .8), rgba(0, 5, 15, .8)), url('/Images/index/pexels-photo-346529.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.slide-section-4 {
+    background-attachment: fixed;
+    background-image: linear-gradient(rgba(0, 5, 15, .8), rgba(0, 5, 15, .8)), url('/Images/index/pexels-photo-346529.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.slide-section-5 {
+    background-attachment: fixed;
+    background-image: linear-gradient(rgba(0, 5, 15, .8), rgba(0, 5, 15, .8)), url('/Images/index/pexels-photo-346529.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.tourist-btn {
+    background: transparent;
+    padding: 5px;
+    margin-top: 20px;
+}
+
+    .tourist-btn a {
+        border: 1px solid #ff4838;
+        padding: 20px 20px;
+        text-decoration: none;
+        color: #ffffff;
+        background: #ff4838;
+        font-weight: 600;
+        border-radius: 5px;
+    }
+
+        .tourist-btn a:hover {
+            background: #ffffff;
+            color: #ff4838;
+            transition: ease 0.5s;
+            border: 3px solid #ff4838;
+        }
+
+
+.swiper-slide h2, p {
+    background: transparent;
+    margin: 50px 0;
+}
+
+.swiper-slide h2 {
+    font-size: 32px;
+    font-weight: 600;
+    background: linear-gradient(to right, #ffffff, #ff4838);
+    background-clip: text;
+    color: transparent;
+}
