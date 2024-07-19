@@ -73,21 +73,7 @@
         border: 0.1px solid #00000008;
     }
 
-#content-2 {
-    display: none;
-}
 
-#content-3 {
-    display: none;
-}
-
-#img-2 {
-    display: none;
-}
-
-#img-3 {
-    display: none;
-}
 
 .package-section {
     justify-content: start !important;
