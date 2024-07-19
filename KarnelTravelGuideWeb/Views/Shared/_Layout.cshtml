@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link href="~/js/site.js"  rel="stylesheet" />
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.10.3/font/bootstrap-icons.min.css" />
     @* <link rel="stylesheet" href="~/KarnelTravelGuideWeb.styles.css" asp-append-version="true" /> *@
 </head>
 <body>
@@ -45,7 +46,7 @@
                                     <a href="">Information <span></span></a>
                                     <ul class="information-list">
                                         <li><a href="">Tourist Spot</a></li>
-                                        <li><a href="">Hotel</a></li>
+                                        <li><a asp-controller="Home" asp-action="Facilities">Hotel</a></li>
                                         <li><a href="">Retaurant</a></li>
                                         <li><a href="">Resort</a></li>
                                         <li><a href="">Transportation</a></li>

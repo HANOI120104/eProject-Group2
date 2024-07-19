@@ -143,9 +143,10 @@ header {
 /* footer css */
 
 footer {
-    padding: 0 100px;
+    padding: 50px 100px;
     background: #2d373c;
     color: #ffffff;
+    
 }
 
 
