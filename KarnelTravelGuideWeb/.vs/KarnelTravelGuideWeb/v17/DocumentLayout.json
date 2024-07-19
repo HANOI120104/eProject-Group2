@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4999E9E8-204C-4C2B-A30B-86008CB2274F}|KarnelTravelGuideWeb.csproj|d:\\asp.net\\eproject-group2\\karneltravelguideweb\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{4999E9E8-204C-4C2B-A30B-86008CB2274F}|KarnelTravelGuideWeb.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4999E9E8-204C-4C2B-A30B-86008CB2274F}|KarnelTravelGuideWeb.csproj|d:\\asp.net\\eproject-group2\\karneltravelguideweb\\wwwroot\\css\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{4999E9E8-204C-4C2B-A30B-86008CB2274F}|KarnelTravelGuideWeb.csproj|solutionrelative:wwwroot\\css\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4999E9E8-204C-4C2B-A30B-86008CB2274F}|KarnelTravelGuideWeb.csproj|d:\\asp.net\\eproject-group2\\karneltravelguideweb\\wwwroot\\css\\about.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{4999E9E8-204C-4C2B-A30B-86008CB2274F}|KarnelTravelGuideWeb.csproj|solutionrelative:wwwroot\\css\\about.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4999E9E8-204C-4C2B-A30B-86008CB2274F}|KarnelTravelGuideWeb.csproj|d:\\asp.net\\eproject-group2\\karneltravelguideweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4999E9E8-204C-4C2B-A30B-86008CB2274F}|KarnelTravelGuideWeb.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4999E9E8-204C-4C2B-A30B-86008CB2274F}|KarnelTravelGuideWeb.csproj|d:\\asp.net\\eproject-group2\\karneltravelguideweb\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4999E9E8-204C-4C2B-A30B-86008CB2274F}|KarnelTravelGuideWeb.csproj|solutionrelative:views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4999E9E8-204C-4C2B-A30B-86008CB2274F}|KarnelTravelGuideWeb.csproj|d:\\asp.net\\eproject-group2\\karneltravelguideweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4999E9E8-204C-4C2B-A30B-86008CB2274F}|KarnelTravelGuideWeb.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4999E9E8-204C-4C2B-A30B-86008CB2274F}|KarnelTravelGuideWeb.csproj|d:\\asp.net\\eproject-group2\\karneltravelguideweb\\wwwroot\\css\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4999E9E8-204C-4C2B-A30B-86008CB2274F}|KarnelTravelGuideWeb.csproj|solutionrelative:wwwroot\\css\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4999E9E8-204C-4C2B-A30B-86008CB2274F}|KarnelTravelGuideWeb.csproj|d:\\asp.net\\eproject-group2\\karneltravelguideweb\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4999E9E8-204C-4C2B-A30B-86008CB2274F}|KarnelTravelGuideWeb.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4999E9E8-204C-4C2B-A30B-86008CB2274F}|KarnelTravelGuideWeb.csproj|d:\\asp.net\\eproject-group2\\karneltravelguideweb\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -29,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{4999E9E8-204C-4C2B-A30B-86008CB2274F}|KarnelTravelGuideWeb.csproj|d:\\asp.net\\eproject-group2\\karneltravelguideweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4999E9E8-204C-4C2B-A30B-86008CB2274F}|KarnelTravelGuideWeb.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4999E9E8-204C-4C2B-A30B-86008CB2274F}|KarnelTravelGuideWeb.csproj|d:\\asp.net\\eproject-group2\\karneltravelguideweb\\wwwroot\\js\\about.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{4999E9E8-204C-4C2B-A30B-86008CB2274F}|KarnelTravelGuideWeb.csproj|solutionrelative:wwwroot\\js\\about.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -54,12 +50,11 @@
               "RelativeToolTip": "wwwroot\\js\\site.js",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-07-19T03:36:36.347Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-19T03:36:36.347Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "site.css",
               "DocumentMoniker": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
@@ -72,64 +67,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "about.css",
               "DocumentMoniker": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\css\\about.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\about.css",
               "ToolTip": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\css\\about.css",
               "RelativeToolTip": "wwwroot\\css\\about.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAOAAAAASAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-07-19T03:35:22.745Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "index.css",
               "DocumentMoniker": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\css\\index.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\index.css",
               "ToolTip": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\css\\index.css",
               "RelativeToolTip": "wwwroot\\css\\index.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAJMAAAAAAAAAAAAAALYAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-07-17T17:21:16.303Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "about.js",
-              "DocumentMoniker": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\js\\about.js",
-              "RelativeDocumentMoniker": "wwwroot\\js\\about.js",
-              "ToolTip": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\js\\about.js",
-              "RelativeToolTip": "wwwroot\\js\\about.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-07-17T17:19:38.907Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "About.cshtml",
               "DocumentMoniker": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\Views\\Home\\About.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\About.cshtml",
               "ToolTip": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\Views\\Home\\About.cshtml",
               "RelativeToolTip": "Views\\Home\\About.cshtml",
-              "ViewState": "AQIAACoAAAAAAAAAAAAAAAMAAAAbAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGAAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-17T17:15:40.427Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
               "ToolTip": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAE4AAAAAAAAAAAAAAA0AAAAGAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-11T15:27:04.511Z",
               "EditorCaption": ""
@@ -144,8 +127,7 @@
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-06T10:32:09.903Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-06T10:32:09.903Z"
             }
           ]
         }
