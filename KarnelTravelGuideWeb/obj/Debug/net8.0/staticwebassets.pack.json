@@ -1,6 +1,10 @@
 {
   "Files": [
     {
+      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\about\\1.jpg",
+      "PackagePath": "staticwebassets\\Images\\about\\1.jpg"
+    },
+    {
       "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\footer\\footer1.jpg",
       "PackagePath": "staticwebassets\\Images\\footer\\footer1.jpg"
     },
@@ -105,6 +109,14 @@
       "PackagePath": "staticwebassets\\Images\\index\\icons8-place-50.png"
     },
     {
+      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\index\\pexels-photo-346529.webp",
+      "PackagePath": "staticwebassets\\Images\\index\\pexels-photo-346529.webp"
+    },
+    {
+      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\css\\about.css",
+      "PackagePath": "staticwebassets\\css\\about.css"
+    },
+    {
       "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\css\\index.css",
       "PackagePath": "staticwebassets\\css\\index.css"
     },
@@ -115,6 +127,10 @@
     {
       "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\js\\about.js",
+      "PackagePath": "staticwebassets\\js\\about.js"
     },
     {
       "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\js\\index.js",

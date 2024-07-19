@@ -3,10 +3,6 @@
 
 // Write your JavaScript code.
 // wwwroot/js/site.js
-document.addEventListener('DOMContentLoaded', function () {
-    document.getElementById('loading').style.display = 'none';
-    document.getElementById('content').style.display = 'block';
-});
 
 function openSearch() {
     var div = document.getElementById("search-container");

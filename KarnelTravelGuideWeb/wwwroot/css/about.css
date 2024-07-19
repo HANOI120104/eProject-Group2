@@ -1,12 +1,7 @@
-﻿* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    background: #ffffff;
-}
+﻿
 
 .banner-container {
-    background-image: linear-gradient(rgba(0, 5, 15, .6), rgba(0, 5, 15, .6)), url(/Homepage/Img/1.jpg);
+    background-image: linear-gradient(rgba(0, 5, 15, .6), rgba(0, 5, 15, .6)), url('/Images/about/1.jpg');
     background-position: 50%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -53,9 +48,7 @@
 
 .heading-about {
     font-weight: 800;
-    background: linear-gradient(to right, #000000, #ff4838);
-    background-clip: content-box;
-    color: transparent;
+    color: #ff4838;
 }
 
 .tab-content-btn {
@@ -229,7 +222,5 @@
 .swiper-slide h2 {
     font-size: 32px;
     font-weight: 600;
-    background: linear-gradient(to right, #ffffff, #ff4838);
-    background-clip: text;
-    color: transparent;
+    color: #ff4838;
 }

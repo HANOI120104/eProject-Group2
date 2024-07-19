@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KarnelTravelGuideWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+17f054a6beadd9e38a1ea922a1792d38ccc779df")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3e3cafcb1b448b86527a3b0051bed7b43a309123")]
 [assembly: System.Reflection.AssemblyProductAttribute("KarnelTravelGuideWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KarnelTravelGuideWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
