@@ -89,26 +89,6 @@
       "PackagePath": "staticwebassets\\Images\\header\\karnel-travel-high-resolution-logo-transparent (1).png"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\index\\1.jpg",
-      "PackagePath": "staticwebassets\\Images\\index\\1.jpg"
-    },
-    {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\index\\2.jpg",
-      "PackagePath": "staticwebassets\\Images\\index\\2.jpg"
-    },
-    {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\index\\3.jpg",
-      "PackagePath": "staticwebassets\\Images\\index\\3.jpg"
-    },
-    {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\index\\4.jpg",
-      "PackagePath": "staticwebassets\\Images\\index\\4.jpg"
-    },
-    {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\index\\5.jpg",
-      "PackagePath": "staticwebassets\\Images\\index\\5.jpg"
-    },
-    {
       "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\index\\icons8-dropdown-24.png",
       "PackagePath": "staticwebassets\\Images\\index\\icons8-dropdown-24.png"
     },
@@ -119,6 +99,26 @@
     {
       "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\index\\icons8-place-50.png",
       "PackagePath": "staticwebassets\\Images\\index\\icons8-place-50.png"
+    },
+    {
+      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\index\\pexels-alfonso-escalante-1319242-2533090.jpg",
+      "PackagePath": "staticwebassets\\Images\\index\\pexels-alfonso-escalante-1319242-2533090.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\index\\pexels-darren-lawrence-848896-3822113.jpg",
+      "PackagePath": "staticwebassets\\Images\\index\\pexels-darren-lawrence-848896-3822113.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\index\\pexels-gaetanthurin-3163927.jpg",
+      "PackagePath": "staticwebassets\\Images\\index\\pexels-gaetanthurin-3163927.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\index\\pexels-gantas-1891882.jpg",
+      "PackagePath": "staticwebassets\\Images\\index\\pexels-gantas-1891882.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\index\\pexels-kyleloftusstudios-2734521.jpg",
+      "PackagePath": "staticwebassets\\Images\\index\\pexels-kyleloftusstudios-2734521.jpg"
     },
     {
       "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\index\\pexels-photo-346529.webp",
