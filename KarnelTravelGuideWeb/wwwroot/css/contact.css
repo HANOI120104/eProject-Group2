@@ -8,6 +8,38 @@ body {
     background: #f9f9f9;
 }
 
+.banner-container {
+    background-attachment: fixed;
+    background-image: linear-gradient(rgba(0, 5, 15, .6), rgba(0, 5, 15, .6)), url('/Images/index/pexels-photo-346529.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 150px 0;
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+
+    .banner-container h2,
+    li,
+    ul,
+    span,
+    a {
+        color: #ffffff;
+        background: transparent;
+    }
+
+    .banner-container ul {
+        list-style: none;
+        display: flex;
+        justify-content: center;
+        padding-left: 0;
+    }
+
+    .banner-container a {
+        color: #ffffff;
+        text-decoration: none;
+    }
+
 .form-section {
     margin-top: 20px;
     padding: 40px;

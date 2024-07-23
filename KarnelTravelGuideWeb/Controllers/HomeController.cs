@@ -23,7 +23,7 @@ namespace KarnelTravelGuideWeb.Controllers
             return View();
         }
 
-        public IActionResult Facilities()
+        public IActionResult Search()
         {
             return View();
         }
