@@ -125,8 +125,48 @@
       "PackagePath": "staticwebassets\\Images\\index\\pexels-photo-346529.webp"
     },
     {
+      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\spot\\1.jpg",
+      "PackagePath": "staticwebassets\\Images\\spot\\1.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\spot\\2.jpg",
+      "PackagePath": "staticwebassets\\Images\\spot\\2.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\spot\\3.jpg",
+      "PackagePath": "staticwebassets\\Images\\spot\\3.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\spot\\4.jpg",
+      "PackagePath": "staticwebassets\\Images\\spot\\4.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\spot\\5.jpg",
+      "PackagePath": "staticwebassets\\Images\\spot\\5.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\spot\\icons8-dropdown-24.png",
+      "PackagePath": "staticwebassets\\Images\\spot\\icons8-dropdown-24.png"
+    },
+    {
+      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\spot\\icons8-dropdown-50.png",
+      "PackagePath": "staticwebassets\\Images\\spot\\icons8-dropdown-50.png"
+    },
+    {
+      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\spot\\icons8-place-50.png",
+      "PackagePath": "staticwebassets\\Images\\spot\\icons8-place-50.png"
+    },
+    {
+      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\spot\\pexels-photo-346529.webp",
+      "PackagePath": "staticwebassets\\Images\\spot\\pexels-photo-346529.webp"
+    },
+    {
       "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\css\\about.css",
       "PackagePath": "staticwebassets\\css\\about.css"
+    },
+    {
+      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\css\\contact.css",
+      "PackagePath": "staticwebassets\\css\\contact.css"
     },
     {
       "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\css\\facilities.css",
@@ -147,6 +187,10 @@
     {
       "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\js\\about.js",
       "PackagePath": "staticwebassets\\js\\about.js"
+    },
+    {
+      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\js\\contact.js",
+      "PackagePath": "staticwebassets\\js\\contact.js"
     },
     {
       "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\js\\facilities.js",
