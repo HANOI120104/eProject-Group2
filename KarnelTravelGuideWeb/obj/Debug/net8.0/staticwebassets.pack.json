@@ -169,12 +169,16 @@
       "PackagePath": "staticwebassets\\css\\contact.css"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\css\\facilities.css",
-      "PackagePath": "staticwebassets\\css\\facilities.css"
-    },
-    {
       "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\css\\index.css",
       "PackagePath": "staticwebassets\\css\\index.css"
+    },
+    {
+      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\css\\information.css",
+      "PackagePath": "staticwebassets\\css\\information.css"
+    },
+    {
+      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\css\\search.css",
+      "PackagePath": "staticwebassets\\css\\search.css"
     },
     {
       "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\css\\site.css",
