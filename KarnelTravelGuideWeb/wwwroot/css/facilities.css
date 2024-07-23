@@ -1,0 +1,265 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: url('/Images/facilities/section-background.png');
+}
+
+.SearchPage-container {
+    margin: 10vh 0;
+}
+
+.search-section {
+    border: 2px solid #e5e5e5;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+    .search-section h2 {
+        color: #ff4838;
+        font-weight: 600;
+    }
+
+.search-filter-section {
+    text-align: start;
+    border: 2px solid #ff4838;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+    .search-filter-section input {
+        width: 90%;
+        padding: 5px;
+        border: none;
+        outline: none;
+        font-weight: 600;
+    }
+
+    .search-filter-section select {
+        width: 85%;
+        padding: 5px;
+        border: none;
+        outline: none;
+        font-weight: 600;
+    }
+
+    .search-filter-section option {
+        font-weight: 600;
+    }
+
+
+.search-btn {
+    border: 2px solid #ff4838;
+    padding: 10px;
+    border-radius: 10px;
+    width: 100%;
+    color: #ff4838;
+    font-weight: 600;
+    background: linear-gradient(to right, #ff4838 50%,#ffffff 50%);
+    background-size: 200% 100%;
+    background-position: right bottom;
+    transition: background-position 0.5s ease;
+    transition: color 0.5s ease;
+}
+
+    .search-btn:hover {
+        color: #ffffff;
+        background-position: left bottom;
+    }
+
+.result-container {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.result-section {
+    border: 2px solid #e5e5e5;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.result-heading {
+    padding: 20px;
+}
+
+    .result-heading select {
+        width: 30%;
+        border: #e5e5e5 3px solid;
+        border-radius: 10px;
+        padding: 5px;
+        outline: none;
+    }
+
+    .result-heading option {
+        padding: 5px;
+    }
+
+.post-list-container {
+    padding: 20px;
+}
+
+.selection-section {
+    border: 2px solid #e5e5e5;
+    border-radius: 10px;
+}
+
+.filer-heading {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 0;
+}
+
+
+    .filer-heading button {
+        border: 2px solid #ff4838;
+        border-radius: 10px;
+        padding: 5px 10px;
+        background: #ff4838;
+        color: #ffffff;
+        font-weight: 600;
+        transition: 0.3s ease;
+    }
+
+        .filer-heading button:hover {
+            background: #ffffff;
+            color: #ff4838;
+        }
+
+.filer-option-section {
+    margin: 10px 0;
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+    .filer-option-section select {
+        border: #e5e5e5 3px solid;
+        border-radius: 10px;
+        padding: 5px;
+        width: 50%;
+    }
+
+    .filer-option-section h5, p, ul {
+        margin-bottom: 0;
+    }
+
+#priceValue {
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.star-list {
+    display: flex;
+    list-style: none;
+    padding-left: 0;
+    margin-top: 5px;
+}
+
+    .star-list li {
+        margin-right: 10px;
+        display: flex;
+        align-items: center;
+    }
+
+    .star-list i {
+        color: #ff4838;
+        margin-left: 5px;
+    }
+
+    .star-list input {
+        width: 24px;
+        height: 24px;
+        margin-right: 5px;
+    }
+
+.post-list-section {
+    position: relative;
+}
+
+.post-section {
+    border: 2px solid #e5e5e5;
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    padding: 20px;
+}
+
+.img-post-section img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.details-post-section {
+    position: relative;
+}
+
+.price-btn-section {
+    border-top: 1px solid #e5e5e5;
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    position: absolute;
+    bottom: 0;
+    padding-top: 10px;
+}
+
+    .price-btn-section p {
+        color: #ff4838;
+        font-weight: 600;
+        font-size: 24px;
+    }
+
+    .price-btn-section button {
+        padding: 5px 30px;
+        border: 2px solid #ff4838;
+        border-radius: 10px;
+        background: #ff4838;
+        color: #ffffff;
+        font-weight: 600;
+        font-size: 24px;
+        transition: 0.5s ease;
+    }
+
+        .price-btn-section button:hover {
+            background: #ffffff;
+            color: #ff4838;
+        }
+
+
+
+.page-division-section {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+    .page-division-section button {
+        padding: 5px 10px;
+        text-align: center;
+        margin: 0 5px;
+        border: 2px solid #ff4838;
+        border-radius: 10px;
+        background: #ff4838;
+        color: #ffffff;
+        transition: 0.5s ease;
+    }
+
+        .page-division-section button:hover {
+            background: #ffffff;
+            color: #ff4838;
+        }
+
+    .page-division-section span {
+        margin: 0 5px;
+        padding: 5px 10px;
+        text-align: center;
+        border: 2px solid #ff4838;
+        border-radius: 10px;
+        background: #ff4838;
+        color: #ffffff;
+    }

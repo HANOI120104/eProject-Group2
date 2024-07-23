@@ -1,0 +1,193 @@
+﻿.swiper img {
+    width: 100%;
+    object-fit: cover;
+    height: 80vh;
+}
+
+.swiper-slide {
+    position: relative;
+}
+
+.slide-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    /* Semi-transparent background for better visibility */
+    padding: 10px;
+    border-radius: 10px;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.input-container img {
+    object-fit: cover;
+}
+
+.combined-input {
+    display: flex;
+    align-items: center;
+}
+
+    .combined-input select {
+        height: 40px;
+        border: 1px solid #ccc;
+        border-right: none;
+        border-radius: 4px 0 0 4px;
+        padding: 0 10px;
+    }
+
+    .combined-input input {
+        height: 40px;
+        border: 1px solid #ccc;
+        border-radius: 0 4px 4px 0;
+        padding: 0 10px;
+        outline: none;
+    }
+
+.searchbar-section {
+    display: flex;
+    justify-content: center;
+    margin-top: -50px;
+    position: relative;
+    z-index: 1000;
+    background-color: transparent;
+}
+
+.multi-search-container {
+    margin: 10px;
+    padding: 20px;
+    background: #ffffff;
+    /* border: 1px solid black; */
+    border-radius: 5px;
+    box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.2);
+}
+
+.combined-input {
+    position: relative;
+}
+
+    .combined-input input {
+        width: 100%;
+        padding: 10px;
+        border: none;
+        border-radius: 4px;
+        font-size: 16px;
+        box-sizing: border-box;
+        /* Ensure padding is included in width */
+    }
+
+.select-list-destination {
+    position: absolute;
+    top: 50px;
+    /* Adjust based on input's height */
+    left: 0;
+    width: 100%;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #fff;
+    display: none;
+    /* Hide by default */
+    z-index: 10;
+}
+
+    .select-list-destination a {
+        display: block;
+        padding: 10px;
+        text-decoration: none;
+        color: #333;
+        border-bottom: 1px solid #eee;
+    }
+
+        .select-list-destination a:last-child {
+            border-bottom: none;
+        }
+
+        .select-list-destination a:hover {
+            background-color: #f0f0f0;
+        }
+
+.input-container h4 {
+    margin: 0 5px 15px;
+}
+
+
+
+.search-btn-section a {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.search-btn-section button {
+    width: 100%;
+    height: 100%;
+    background: #ff4838;
+    color: #ffffff;
+    font-weight: 600;
+    font-size: 18px;
+    border: none;
+}
+
+    .search-btn-section button:hover {
+        background: #ffffff;
+        color: #ff4838;
+        transition: ease 0.5s;
+        border: 3px solid #ff4838;
+    }
+
+.tourist-area {
+    margin-top: 15vh;
+}
+
+.tourist-btn {
+    padding: 5px;
+    margin-top: 20px;
+}
+
+    .tourist-btn a {
+        border: 1px solid #ff4838;
+        padding: 20px 20px;
+        text-decoration: none;
+        color: #ffffff;
+        background: #ff4838;
+        font-weight: 600;
+        border-radius: 5px;
+    }
+
+        .tourist-btn a:hover {
+            background: #ffffff;
+            color: #ff4838;
+            transition: ease 0.5s;
+            border: 3px solid #ff4838;
+        }        
+
+.container {
+    width: 70%;
+}
+
+.top-destination {
+    margin-top: 15vh;
+}
+
+.des-header h2 {
+    text-align: center;
+}
+
+.tour-area {
+    margin-top: 15vh;
+    height: 50vh;
+    background-attachment: fixed;
+    background-image: linear-gradient(rgba(0, 5, 15, .6), rgba(0, 5, 15, .6)), url('/Images/index/pexels-photo-346529.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
