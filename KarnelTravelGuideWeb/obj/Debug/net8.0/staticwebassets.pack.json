@@ -1,130 +1,131 @@
 {
   "Files": [
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\about\\1.jpg",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\about\\1.jpg",
       "PackagePath": "staticwebassets\\Images\\about\\1.jpg"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\about\\pexels-photo-346529.webp",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\about\\pexels-photo-346529.webp",
       "PackagePath": "staticwebassets\\Images\\about\\pexels-photo-346529.webp"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\facilities\\1.jpg",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\facilities\\1.jpg",
       "PackagePath": "staticwebassets\\Images\\facilities\\1.jpg"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\facilities\\section-background.png",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\facilities\\section-background.png",
       "PackagePath": "staticwebassets\\Images\\facilities\\section-background.png"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\footer\\footer1.jpg",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\footer\\footer1.jpg",
       "PackagePath": "staticwebassets\\Images\\footer\\footer1.jpg"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\footer\\footer2.jpg",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\footer\\footer2.jpg",
       "PackagePath": "staticwebassets\\Images\\footer\\footer2.jpg"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\footer\\footer3.jpg",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\footer\\footer3.jpg",
       "PackagePath": "staticwebassets\\Images\\footer\\footer3.jpg"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\footer\\footer4.jpg",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\footer\\footer4.jpg",
       "PackagePath": "staticwebassets\\Images\\footer\\footer4.jpg"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\footer\\footer5.jpg",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\footer\\footer5.jpg",
       "PackagePath": "staticwebassets\\Images\\footer\\footer5.jpg"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\footer\\footer6.jpg",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\footer\\footer6.jpg",
       "PackagePath": "staticwebassets\\Images\\footer\\footer6.jpg"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\footer\\icons8-email-48.png",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\footer\\icons8-email-48.png",
       "PackagePath": "staticwebassets\\Images\\footer\\icons8-email-48.png"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\footer\\icons8-facebook-48.png",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\footer\\icons8-facebook-48.png",
       "PackagePath": "staticwebassets\\Images\\footer\\icons8-facebook-48.png"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\footer\\icons8-instagram-48.png",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\footer\\icons8-instagram-48.png",
       "PackagePath": "staticwebassets\\Images\\footer\\icons8-instagram-48.png"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\footer\\icons8-map-48.png",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\footer\\icons8-map-48.png",
       "PackagePath": "staticwebassets\\Images\\footer\\icons8-map-48.png"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\footer\\icons8-phone-48.png",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\footer\\icons8-phone-48.png",
       "PackagePath": "staticwebassets\\Images\\footer\\icons8-phone-48.png"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\footer\\icons8-pinterest-48.png",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\footer\\icons8-pinterest-48.png",
       "PackagePath": "staticwebassets\\Images\\footer\\icons8-pinterest-48.png"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\footer\\icons8-twitterx-48.png",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\footer\\icons8-twitterx-48.png",
       "PackagePath": "staticwebassets\\Images\\footer\\icons8-twitterx-48.png"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\header\\icons8-close-24.png",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\header\\icons8-close-24.png",
       "PackagePath": "staticwebassets\\Images\\header\\icons8-close-24.png"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\header\\icons8-menu.gif",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\header\\icons8-menu.gif",
       "PackagePath": "staticwebassets\\Images\\header\\icons8-menu.gif"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\header\\icons8-search-24 (1).png",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\header\\icons8-search-24 (1).png",
       "PackagePath": "staticwebassets\\Images\\header\\icons8-search-24 (1).png"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\header\\icons8-search-24.png",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\header\\icons8-search-24.png",
       "PackagePath": "staticwebassets\\Images\\header\\icons8-search-24.png"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\header\\karnel-travel-high-resolution-logo-transparent (1).png",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\header\\karnel-travel-high-resolution-logo-transparent (1).png",
       "PackagePath": "staticwebassets\\Images\\header\\karnel-travel-high-resolution-logo-transparent (1).png"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\index\\icons8-dropdown-24.png",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\index\\icons8-dropdown-24.png",
       "PackagePath": "staticwebassets\\Images\\index\\icons8-dropdown-24.png"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\index\\icons8-dropdown-50.png",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\index\\icons8-dropdown-50.png",
       "PackagePath": "staticwebassets\\Images\\index\\icons8-dropdown-50.png"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\index\\icons8-place-50.png",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\index\\icons8-place-50.png",
       "PackagePath": "staticwebassets\\Images\\index\\icons8-place-50.png"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\index\\pexels-alfonso-escalante-1319242-2533090.jpg",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\index\\pexels-alfonso-escalante-1319242-2533090.jpg",
       "PackagePath": "staticwebassets\\Images\\index\\pexels-alfonso-escalante-1319242-2533090.jpg"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\index\\pexels-darren-lawrence-848896-3822113.jpg",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\index\\pexels-darren-lawrence-848896-3822113.jpg",
       "PackagePath": "staticwebassets\\Images\\index\\pexels-darren-lawrence-848896-3822113.jpg"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\index\\pexels-gaetanthurin-3163927.jpg",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\index\\pexels-gaetanthurin-3163927.jpg",
       "PackagePath": "staticwebassets\\Images\\index\\pexels-gaetanthurin-3163927.jpg"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\index\\pexels-gantas-1891882.jpg",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\index\\pexels-gantas-1891882.jpg",
       "PackagePath": "staticwebassets\\Images\\index\\pexels-gantas-1891882.jpg"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\index\\pexels-kyleloftusstudios-2734521.jpg",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\index\\pexels-kyleloftusstudios-2734521.jpg",
       "PackagePath": "staticwebassets\\Images\\index\\pexels-kyleloftusstudios-2734521.jpg"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\index\\pexels-photo-346529.webp",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\index\\pexels-photo-346529.webp",
       "PackagePath": "staticwebassets\\Images\\index\\pexels-photo-346529.webp"
     },
     {
+<<<<<<< HEAD
       "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\spot\\1.jpg",
       "PackagePath": "staticwebassets\\Images\\spot\\1.jpg"
     },
@@ -167,12 +168,21 @@
     {
       "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\css\\contact.css",
       "PackagePath": "staticwebassets\\css\\contact.css"
+=======
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\css\\about.css",
+      "PackagePath": "staticwebassets\\css\\about.css"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\css\\index.css",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\css\\facilities.css",
+      "PackagePath": "staticwebassets\\css\\facilities.css"
+>>>>>>> 91ff07702bf8ea8cf380471e15298fb961aae0fe
+    },
+    {
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\css\\index.css",
       "PackagePath": "staticwebassets\\css\\index.css"
     },
     {
+<<<<<<< HEAD
       "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\css\\information.css",
       "PackagePath": "staticwebassets\\css\\information.css"
     },
@@ -182,258 +192,265 @@
     },
     {
       "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\css\\site.css",
+=======
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\css\\site.css",
+>>>>>>> 91ff07702bf8ea8cf380471e15298fb961aae0fe
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\favicon.ico",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\js\\about.js",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\js\\about.js",
       "PackagePath": "staticwebassets\\js\\about.js"
     },
     {
+<<<<<<< HEAD
       "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\js\\contact.js",
       "PackagePath": "staticwebassets\\js\\contact.js"
     },
     {
       "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\js\\facilities.js",
+=======
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\js\\facilities.js",
+>>>>>>> 91ff07702bf8ea8cf380471e15298fb961aae0fe
       "PackagePath": "staticwebassets\\js\\facilities.js"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\js\\index.js",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\js\\index.js",
       "PackagePath": "staticwebassets\\js\\index.js"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\js\\site.js",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

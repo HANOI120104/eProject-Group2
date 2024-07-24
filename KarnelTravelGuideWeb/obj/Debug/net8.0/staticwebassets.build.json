@@ -1,6 +1,10 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "Hash": "vwrZkmrjw88W7G+474snXzo2MCZgT/FDa/V8Qaxswg4=",
+=======
+  "Hash": "/E6nJVHQi6ngDWcd2I3kKbhxkcrqIrw5m367NreSEHQ=",
+>>>>>>> 91ff07702bf8ea8cf380471e15298fb961aae0fe
   "Source": "KarnelTravelGuideWeb",
   "BasePath": "_content/KarnelTravelGuideWeb",
   "Mode": "Default",
@@ -10,17 +14,17 @@
     {
       "Name": "KarnelTravelGuideWeb\\wwwroot",
       "Source": "KarnelTravelGuideWeb",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\css\\about.css",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\css\\about.css",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "css/about.css",
       "AssetKind": "All",
@@ -36,10 +40,14 @@
       "OriginalItemSpec": "wwwroot\\css\\about.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\css\\contact.css",
+=======
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\css\\facilities.css",
+>>>>>>> 91ff07702bf8ea8cf380471e15298fb961aae0fe
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "css/contact.css",
       "AssetKind": "All",
@@ -55,10 +63,10 @@
       "OriginalItemSpec": "wwwroot\\css\\contact.css"
     },
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\css\\index.css",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\css\\index.css",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "css/index.css",
       "AssetKind": "All",
@@ -74,6 +82,7 @@
       "OriginalItemSpec": "wwwroot\\css\\index.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\css\\information.css",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
@@ -113,9 +122,12 @@
     },
     {
       "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\css\\site.css",
+=======
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\css\\site.css",
+>>>>>>> 91ff07702bf8ea8cf380471e15298fb961aae0fe
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -131,10 +143,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\favicon.ico",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\favicon.ico",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -150,10 +162,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\about\\1.jpg",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\about\\1.jpg",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "Images/about/1.jpg",
       "AssetKind": "All",
@@ -169,10 +181,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\about\\1.jpg"
     },
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\about\\pexels-photo-346529.webp",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\about\\pexels-photo-346529.webp",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "Images/about/pexels-photo-346529.webp",
       "AssetKind": "All",
@@ -188,10 +200,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\about\\pexels-photo-346529.webp"
     },
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\facilities\\1.jpg",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\facilities\\1.jpg",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "Images/facilities/1.jpg",
       "AssetKind": "All",
@@ -207,10 +219,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\facilities\\1.jpg"
     },
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\facilities\\section-background.png",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\facilities\\section-background.png",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "Images/facilities/section-background.png",
       "AssetKind": "All",
@@ -226,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\facilities\\section-background.png"
     },
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\footer\\footer1.jpg",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\footer\\footer1.jpg",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "Images/footer/footer1.jpg",
       "AssetKind": "All",
@@ -245,10 +257,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\footer\\footer1.jpg"
     },
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\footer\\footer2.jpg",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\footer\\footer2.jpg",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "Images/footer/footer2.jpg",
       "AssetKind": "All",
@@ -264,10 +276,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\footer\\footer2.jpg"
     },
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\footer\\footer3.jpg",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\footer\\footer3.jpg",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "Images/footer/footer3.jpg",
       "AssetKind": "All",
@@ -283,10 +295,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\footer\\footer3.jpg"
     },
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\footer\\footer4.jpg",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\footer\\footer4.jpg",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "Images/footer/footer4.jpg",
       "AssetKind": "All",
@@ -302,10 +314,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\footer\\footer4.jpg"
     },
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\footer\\footer5.jpg",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\footer\\footer5.jpg",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "Images/footer/footer5.jpg",
       "AssetKind": "All",
@@ -321,10 +333,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\footer\\footer5.jpg"
     },
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\footer\\footer6.jpg",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\footer\\footer6.jpg",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "Images/footer/footer6.jpg",
       "AssetKind": "All",
@@ -340,10 +352,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\footer\\footer6.jpg"
     },
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\footer\\icons8-email-48.png",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\footer\\icons8-email-48.png",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "Images/footer/icons8-email-48.png",
       "AssetKind": "All",
@@ -359,10 +371,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\footer\\icons8-email-48.png"
     },
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\footer\\icons8-facebook-48.png",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\footer\\icons8-facebook-48.png",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "Images/footer/icons8-facebook-48.png",
       "AssetKind": "All",
@@ -378,10 +390,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\footer\\icons8-facebook-48.png"
     },
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\footer\\icons8-instagram-48.png",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\footer\\icons8-instagram-48.png",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "Images/footer/icons8-instagram-48.png",
       "AssetKind": "All",
@@ -397,10 +409,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\footer\\icons8-instagram-48.png"
     },
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\footer\\icons8-map-48.png",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\footer\\icons8-map-48.png",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "Images/footer/icons8-map-48.png",
       "AssetKind": "All",
@@ -416,10 +428,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\footer\\icons8-map-48.png"
     },
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\footer\\icons8-phone-48.png",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\footer\\icons8-phone-48.png",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "Images/footer/icons8-phone-48.png",
       "AssetKind": "All",
@@ -435,10 +447,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\footer\\icons8-phone-48.png"
     },
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\footer\\icons8-pinterest-48.png",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\footer\\icons8-pinterest-48.png",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "Images/footer/icons8-pinterest-48.png",
       "AssetKind": "All",
@@ -454,10 +466,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\footer\\icons8-pinterest-48.png"
     },
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\footer\\icons8-twitterx-48.png",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\footer\\icons8-twitterx-48.png",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "Images/footer/icons8-twitterx-48.png",
       "AssetKind": "All",
@@ -473,10 +485,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\footer\\icons8-twitterx-48.png"
     },
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\header\\icons8-close-24.png",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\header\\icons8-close-24.png",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "Images/header/icons8-close-24.png",
       "AssetKind": "All",
@@ -492,10 +504,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\header\\icons8-close-24.png"
     },
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\header\\icons8-menu.gif",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\header\\icons8-menu.gif",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "Images/header/icons8-menu.gif",
       "AssetKind": "All",
@@ -511,10 +523,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\header\\icons8-menu.gif"
     },
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\header\\icons8-search-24 (1).png",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\header\\icons8-search-24 (1).png",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "Images/header/icons8-search-24 (1).png",
       "AssetKind": "All",
@@ -530,10 +542,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\header\\icons8-search-24 (1).png"
     },
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\header\\icons8-search-24.png",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\header\\icons8-search-24.png",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "Images/header/icons8-search-24.png",
       "AssetKind": "All",
@@ -549,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\header\\icons8-search-24.png"
     },
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\header\\karnel-travel-high-resolution-logo-transparent (1).png",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\header\\karnel-travel-high-resolution-logo-transparent (1).png",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "Images/header/karnel-travel-high-resolution-logo-transparent (1).png",
       "AssetKind": "All",
@@ -568,10 +580,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\header\\karnel-travel-high-resolution-logo-transparent (1).png"
     },
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\index\\icons8-dropdown-24.png",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\index\\icons8-dropdown-24.png",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "Images/index/icons8-dropdown-24.png",
       "AssetKind": "All",
@@ -587,10 +599,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\index\\icons8-dropdown-24.png"
     },
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\index\\icons8-dropdown-50.png",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\index\\icons8-dropdown-50.png",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "Images/index/icons8-dropdown-50.png",
       "AssetKind": "All",
@@ -606,10 +618,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\index\\icons8-dropdown-50.png"
     },
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\index\\icons8-place-50.png",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\index\\icons8-place-50.png",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "Images/index/icons8-place-50.png",
       "AssetKind": "All",
@@ -625,10 +637,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\index\\icons8-place-50.png"
     },
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\index\\pexels-alfonso-escalante-1319242-2533090.jpg",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\index\\pexels-alfonso-escalante-1319242-2533090.jpg",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "Images/index/pexels-alfonso-escalante-1319242-2533090.jpg",
       "AssetKind": "All",
@@ -644,10 +656,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\index\\pexels-alfonso-escalante-1319242-2533090.jpg"
     },
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\index\\pexels-darren-lawrence-848896-3822113.jpg",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\index\\pexels-darren-lawrence-848896-3822113.jpg",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "Images/index/pexels-darren-lawrence-848896-3822113.jpg",
       "AssetKind": "All",
@@ -663,10 +675,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\index\\pexels-darren-lawrence-848896-3822113.jpg"
     },
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\index\\pexels-gaetanthurin-3163927.jpg",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\index\\pexels-gaetanthurin-3163927.jpg",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "Images/index/pexels-gaetanthurin-3163927.jpg",
       "AssetKind": "All",
@@ -682,10 +694,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\index\\pexels-gaetanthurin-3163927.jpg"
     },
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\index\\pexels-gantas-1891882.jpg",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\index\\pexels-gantas-1891882.jpg",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "Images/index/pexels-gantas-1891882.jpg",
       "AssetKind": "All",
@@ -701,10 +713,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\index\\pexels-gantas-1891882.jpg"
     },
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\index\\pexels-kyleloftusstudios-2734521.jpg",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\index\\pexels-kyleloftusstudios-2734521.jpg",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "Images/index/pexels-kyleloftusstudios-2734521.jpg",
       "AssetKind": "All",
@@ -720,10 +732,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\index\\pexels-kyleloftusstudios-2734521.jpg"
     },
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\index\\pexels-photo-346529.webp",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\index\\pexels-photo-346529.webp",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "Images/index/pexels-photo-346529.webp",
       "AssetKind": "All",
@@ -739,6 +751,7 @@
       "OriginalItemSpec": "wwwroot\\Images\\index\\pexels-photo-346529.webp"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\spot\\1.jpg",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
@@ -911,9 +924,12 @@
     },
     {
       "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\js\\about.js",
+=======
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\js\\about.js",
+>>>>>>> 91ff07702bf8ea8cf380471e15298fb961aae0fe
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "js/about.js",
       "AssetKind": "All",
@@ -929,6 +945,7 @@
       "OriginalItemSpec": "wwwroot\\js\\about.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\js\\contact.js",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
@@ -949,9 +966,12 @@
     },
     {
       "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\js\\facilities.js",
+=======
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\js\\facilities.js",
+>>>>>>> 91ff07702bf8ea8cf380471e15298fb961aae0fe
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "js/facilities.js",
       "AssetKind": "All",
@@ -967,10 +987,10 @@
       "OriginalItemSpec": "wwwroot\\js\\facilities.js"
     },
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\js\\index.js",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\js\\index.js",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "js/index.js",
       "AssetKind": "All",
@@ -986,10 +1006,10 @@
       "OriginalItemSpec": "wwwroot\\js\\index.js"
     },
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\js\\site.js",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\js\\site.js",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -1005,10 +1025,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1024,10 +1044,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1043,10 +1063,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1062,10 +1082,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1081,10 +1101,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1100,10 +1120,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1119,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1138,10 +1158,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1157,10 +1177,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1176,10 +1196,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1195,10 +1215,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1214,10 +1234,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1233,10 +1253,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1252,10 +1272,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -1271,10 +1291,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -1290,10 +1310,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1309,10 +1329,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1328,10 +1348,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1347,10 +1367,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1366,10 +1386,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1385,10 +1405,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1404,10 +1424,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1423,10 +1443,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1442,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1461,10 +1481,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1480,10 +1500,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1499,10 +1519,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1518,10 +1538,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1537,10 +1557,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1556,10 +1576,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1575,10 +1595,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1594,10 +1614,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1613,10 +1633,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1632,10 +1652,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1651,10 +1671,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1670,10 +1690,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1689,10 +1709,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1708,10 +1728,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1727,10 +1747,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1746,10 +1766,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1765,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1784,10 +1804,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1803,10 +1823,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1822,10 +1842,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1841,10 +1861,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1860,10 +1880,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1879,10 +1899,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1898,10 +1918,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1917,10 +1937,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1936,10 +1956,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1955,10 +1975,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1974,10 +1994,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1993,10 +2013,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -2012,10 +2032,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -2031,10 +2051,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2050,10 +2070,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -2069,10 +2089,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+      "ContentRoot": "F:\\source\\repos\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
