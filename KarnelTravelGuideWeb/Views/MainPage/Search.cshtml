@@ -1,0 +1,214 @@
+﻿@model KarnelTravelGuideWeb.ViewModels.SearchResultsVM
+
+@{
+    ViewData["Title"] = "Facilities";
+}
+<link href="/css/search.css" rel="stylesheet" />
+
+<div class="banner-container">
+    <h2>CONTACT US</h2>
+    <ul>
+        <li><a asp-controller="Home" asp-action="Index">Home</a></li>
+        <li><span>>></span> Contact Us</li>
+    </ul>
+</div>
+
+<div class="SearchPage-container">
+    <div class="container" style="width: 70%; padding: 0;">
+        <form asp-controller="MainPage" asp-action="Search" method="get">
+            <div class="search-section">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <h2>Where are you want?</h2>
+                        <p>More 500 tourist spot and facilities</p>
+                        <div class="row">
+                            <div class="col-lg-5" style="padding: 5px;">
+                                <div class="search-filter-section">
+                                    <i class="bi bi-search"></i>
+                                    <input type="text" name="query" placeholder="Enter location">
+                                </div>
+                            </div>
+                            <div class="col-lg-3" style="padding: 5px;">
+                                <div class="search-filter-section">
+                                    <i class="bi bi-globe"></i>
+                                    <select name="country">
+                                        <option value="">All</option>
+                                        <option value="VietNam">VietNam</option>
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="col-lg-2" style="padding: 5px;">
+                                <div class="search-filter-section">
+                                    <i class="bi bi-list-ul"></i>
+                                    <select name="type">
+                                        <option value="">All</option>
+                                        <option value="Beach">Beach</option>
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="col-lg-2" style="padding: 5px;">
+                                <button type="submit" class="search-btn">Search</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+
+<div class="result-container">
+    <div class="container" style="width: 70%; padding: 0;">
+        <div class="result-section">
+            <form asp-controller="MainPage" asp-action="Search" method="get">
+            <div class="result-heading">
+                <div class="row">
+                    <div class="col-lg-6" style="text-align: start;">
+                        <h1> Places</h1>
+                    </div>
+                    <div class="col-lg-6" style="text-align: end;">
+                        <select name="sort" form="searchForm">
+                            <option value="">None</option>
+                            <option value="price_desc">More Expensive</option>
+                            <option value="price_asc">Cheaper</option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+            </form>
+            <div class="post-list-container">
+                <div class="row">
+                    <div class="selection-section col-lg-4">
+                        <form id="filterForm" asp-controller="MainPage" asp-action="Search" method="get">
+                            <div class="filer-heading">
+                                <h2>Filter Selection</h2>
+                                <button type="reset">Reset</button>
+                            </div>
+                            <div class="filer-option-section">
+                                <h5><i class="bi bi-compass-fill"></i>Location</h5>
+                                <select name="cityId">
+                                    <option value="">All Cities</option>
+                                    @foreach (var city in Model.Cities)
+                                    {
+                                        <option value="@city.Name">@city.Name</option>
+                                    }
+                                </select>
+                            </div>
+                            <div class="filer-option-section">
+                                <h5><i class="bi bi-cash"></i> Price</h5>
+                                <input type="range" min="100" max="1000" id="priceRange" name="maxPrice" value="100">
+                                <p id="priceValue">$100</p>
+                            </div>
+                            <div class="filer-option-section" style="display: block;">
+                                <h5>Quality</h5>
+                                <ul class="star-list">
+                                    <li><input type="checkbox" name="quality" value="3"><span>3</span><i class="bi bi-star-fill"></i></li>
+                                    <li><input type="checkbox" name="quality" value="4"><span>4</span><i class="bi bi-star-fill"></i></li>
+                                    <li><input type="checkbox" name="quality" value="5"><span>5</span><i class="bi bi-star-fill"></i></li>
+                                </ul>
+                            </div>
+                            <button type="submit" style="display:none;"></button>
+                        </form>
+                    </div>
+                    <div class="post-list-section col-lg-8">
+                        <div class="row">
+                            @foreach (var resort in Model.Resorts)
+                            {
+                                <div class="post-section col-lg-12">
+                                    <div class="row">
+                                        <div class="img-post-section col-lg-5">
+                                            <img src="~/Images/facilities/1.jpg" alt="">
+                                        </div>
+                                        <div class="details-post-section col-lg-7">
+                                            <div class="detail-content">
+                                                <p><i class="bi bi-geo-alt">@resort.City</i></p>
+                                                <h3>@resort.Name</h3>
+                                                <p>@resort.Description</p>
+                                            </div>
+                                            <div class="price-btn-section">
+                                                <p>$@resort.Price</p>
+                                                <button>Order</button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            }
+                            @foreach (var hotel in Model.Hotels)
+                            {
+                                <div class="post-section col-lg-12">
+                                    <div class="row">
+                                        <div class="img-post-section col-lg-5">
+                                            <img src="~/Images/facilities/1.jpg" alt="">
+                                        </div>
+                                        <div class="details-post-section col-lg-7">
+                                            <div class="detail-content">
+                                                <p><i class="bi bi-geo-alt">@hotel.City</i></p>
+                                                <h3>@hotel.Name</h3>
+                                                <p>@hotel.Description</p>
+                                            </div>
+                                            <div class="price-btn-section">
+                                                <p>$@hotel.Price</p>
+                                                <button>Order</button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            }
+                            @foreach (var tourist in Model.Tourists)
+                            {
+                                <div class="post-section col-lg-12">
+                                    <div class="row">
+                                        <div class="img-post-section col-lg-5">
+                                            <img src="~/Images/facilities/1.jpg" alt="">
+                                        </div>
+                                        <div class="details-post-section col-lg-7">
+                                            <div class="detail-content">
+                                                <p><i class="bi bi-geo-alt">@tourist.City</i></p>
+                                                <h3>@tourist.Name</h3>
+                                                <p>@tourist.Description</p>
+                                            </div>
+                                            <div class="price-btn-section">
+                                                <button>Order</button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            }
+                            @foreach (var restaurant in Model.Restaurants)
+                            {
+                                <div class="post-section col-lg-12">
+                                    <div class="row">
+                                        <div class="img-post-section col-lg-5">
+                                            <img src="~/Images/facilities/1.jpg" alt="">
+                                        </div>
+                                        <div class="details-post-section col-lg-7">
+                                            <div class="detail-content">
+                                                <p><i class="bi bi-geo-alt">@restaurant.City</i></p>
+                                                <h3>@restaurant.Name</h3>
+                                                <p>@restaurant.Description</p>
+                                            </div>
+                                            <div class="price-btn-section">
+                                                <p>$@restaurant.Price</p>
+                                                <button>Order</button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            }
+                        </div>
+                        <div class="page-division-section">
+                            <button><</button>
+                            <button>1</button>
+                            <button>2</button>
+                            <span>...</span>
+                            <button>4</button>
+                            <button>5</button>
+                            <button>></button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="/js/facilities.js"></script>

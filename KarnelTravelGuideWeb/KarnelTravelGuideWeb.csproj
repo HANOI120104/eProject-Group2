@@ -30,4 +30,8 @@
     <Folder Include="wwwroot\Images\spot\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Include="Views\Shared\Components\MenuView\Default.cshtml" />
+  </ItemGroup>
+
 </Project>

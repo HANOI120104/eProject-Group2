@@ -1,0 +1,91 @@
+﻿@{
+    ViewData["Title"] = "Information";
+    var infoType = ViewBag.InfoType;
+}
+@using KarnelTravelGuideWeb.ViewModels
+<link href="/css/information.css" rel="stylesheet" />
+
+
+<div class="banner-container">
+    <h2>HOTEL</h2>
+    <ul>
+        <li><a href="">Home</a></li>
+        <li><span>>></span> @infoType Information</li>
+    </ul>
+
+</div>
+
+<div class="result-container">
+    <div class="container" style="padding: 0;">
+        <div class="result-section">
+            <div class="result-heading">
+                <div class="row">
+                    <div class="col-lg-6" style="text-align: start;">
+                        <h1>Tourist Spot</h1>
+                    </div>
+                    <div class="col-lg-6" style="text-align: end;">
+                        <select name="" id="">
+                            <option value="">None</option>
+                            <option value=""><i class="bi bi-sort-up"></i>More Expensive</option>
+                            <option value=""><i class="bi bi-sort-up-alt"></i>Cheaper</option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+            <div class="post-list-container">
+                <div class="row">
+                    <div class="post-list-section col-lg-12">                  
+                        <div class="row">  
+                            @foreach (var item in Model)
+                               {
+                            <div class="col-lg-6">  
+                               
+                                <div class="post-section ">
+                                    <div class="row">
+                                        <div class="img-post-section col-lg-5">
+                                            <img src="~/Images/spot/1.jpg" alt="">
+                                        </div>
+                                        <div class="details-post-section col-lg-7">
+                                            <div class="detail-content">
+                                                <p><i class="bi bi-geo-alt">@item.City</i></p><p id="status">Available</p>
+                                                    @if (item.GetType() == typeof(TransportationVM))
+                                                    {
+                                                        <h3>@((item as TransportationVM).Type)</h3>
+                                                    }
+                                                    else if (item.GetType().GetProperty("Name") != null)
+                                                    {
+                                                        <h3>@item.GetType().GetProperty("Name").GetValue(item, null)</h3>
+                                                    }
+                                                <p id="content">@item.Description</p>
+                                            </div>
+                                            <div class="price-btn-section">
+                                                    @if (item.GetType().GetProperty("Price") != null)
+                                                    {
+                                                        <p>$@item.GetType().GetProperty("Price").GetValue(item, null)</p>
+                                                    }
+                                                <button>Order</button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        }
+                        </div>
+                        
+                        <div class="page-division-section">
+                            <button><</button>
+                            <button>1</button>
+                            <button>2</button>
+                            <span>...</span>
+                            <button>4</button>
+                            <button>5</button>
+                            <button>></button>
+                        </div>
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
