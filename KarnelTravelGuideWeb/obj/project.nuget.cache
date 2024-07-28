@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "H+2EkaqgBBw=",
+  "dgSpecHash": "KbBA3k1ilUA=",
   "success": true,
-  "projectFilePath": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\KarnelTravelGuideWeb.csproj",
+  "projectFilePath": "C:\\Users\\DELL\\Documents\\Zalo Received Files\\eProject-Group2 (2)\\eProject-Group2\\KarnelTravelGuideWeb\\KarnelTravelGuideWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
