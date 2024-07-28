@@ -5,6 +5,7 @@
       "PackagePath": "staticwebassets\\Images\\about\\1.jpg"
     },
     {
+<<<<<<< HEAD
       "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\about\\2.jpg",
       "PackagePath": "staticwebassets\\Images\\about\\2.jpg"
     },
@@ -17,14 +18,19 @@
       "PackagePath": "staticwebassets\\Images\\about\\4.jpg"
     },
     {
+=======
+>>>>>>> 7c3e382106f13a36d8cb9efc2f60e465ed576266
       "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\about\\pexels-photo-346529.webp",
       "PackagePath": "staticwebassets\\Images\\about\\pexels-photo-346529.webp"
     },
     {
+<<<<<<< HEAD
       "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\about\\user.jpg",
       "PackagePath": "staticwebassets\\Images\\about\\user.jpg"
     },
     {
+=======
+>>>>>>> 7c3e382106f13a36d8cb9efc2f60e465ed576266
       "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\facilities\\1.jpg",
       "PackagePath": "staticwebassets\\Images\\facilities\\1.jpg"
     },
@@ -205,6 +211,7 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+<<<<<<< HEAD
       "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\img\\aman.jpg",
       "PackagePath": "staticwebassets\\img\\aman.jpg"
     },
@@ -441,6 +448,8 @@
       "PackagePath": "staticwebassets\\img\\villasong.jpg"
     },
     {
+=======
+>>>>>>> 7c3e382106f13a36d8cb9efc2f60e465ed576266
       "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\js\\about.js",
       "PackagePath": "staticwebassets\\js\\about.js"
     },

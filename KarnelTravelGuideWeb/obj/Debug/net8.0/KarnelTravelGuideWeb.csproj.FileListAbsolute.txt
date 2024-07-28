@@ -133,6 +133,7 @@ D:\ASP.NET\eProject-Group2\KarnelTravelGuideWeb\obj\Debug\net8.0\refint\KarnelTr
 D:\ASP.NET\eProject-Group2\KarnelTravelGuideWeb\obj\Debug\net8.0\KarnelTravelGuideWeb.pdb
 D:\ASP.NET\eProject-Group2\KarnelTravelGuideWeb\obj\Debug\net8.0\KarnelTravelGuideWeb.genruntimeconfig.cache
 D:\ASP.NET\eProject-Group2\KarnelTravelGuideWeb\obj\Debug\net8.0\ref\KarnelTravelGuideWeb.dll
+<<<<<<< HEAD
 F:\source\repos\eProject-Group2\KarnelTravelGuideWeb\bin\Debug\net8.0\appsettings.Development.json
 F:\source\repos\eProject-Group2\KarnelTravelGuideWeb\bin\Debug\net8.0\appsettings.json
 F:\source\repos\eProject-Group2\KarnelTravelGuideWeb\bin\Debug\net8.0\KarnelTravelGuideWeb.staticwebassets.runtime.json
@@ -403,3 +404,5 @@ C:\Users\DELL\Documents\Zalo Received Files\eProject-Group2 (2)\eProject-Group2\
 C:\Users\DELL\Documents\Zalo Received Files\eProject-Group2 (2)\eProject-Group2\KarnelTravelGuideWeb\obj\Debug\net8.0\KarnelTravelGuideWeb.pdb
 C:\Users\DELL\Documents\Zalo Received Files\eProject-Group2 (2)\eProject-Group2\KarnelTravelGuideWeb\obj\Debug\net8.0\KarnelTravelGuideWeb.genruntimeconfig.cache
 C:\Users\DELL\Documents\Zalo Received Files\eProject-Group2 (2)\eProject-Group2\KarnelTravelGuideWeb\obj\Debug\net8.0\ref\KarnelTravelGuideWeb.dll
+=======
+>>>>>>> 7c3e382106f13a36d8cb9efc2f60e465ed576266

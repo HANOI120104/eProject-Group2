@@ -1,6 +1,10 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "Hash": "EfpD4z6YTG7znGd0NAOhWfWT6rh3FE4WcdWgqpIVbSU=",
+=======
+  "Hash": "vwrZkmrjw88W7G+474snXzo2MCZgT/FDa/V8Qaxswg4=",
+>>>>>>> 7c3e382106f13a36d8cb9efc2f60e465ed576266
   "Source": "KarnelTravelGuideWeb",
   "BasePath": "_content/KarnelTravelGuideWeb",
   "Mode": "Default",
@@ -169,6 +173,7 @@
       "OriginalItemSpec": "wwwroot\\Images\\about\\1.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\about\\2.jpg",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
@@ -230,6 +235,12 @@
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+=======
+      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\about\\pexels-photo-346529.webp",
+      "SourceId": "KarnelTravelGuideWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+>>>>>>> 7c3e382106f13a36d8cb9efc2f60e465ed576266
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "Images/about/pexels-photo-346529.webp",
       "AssetKind": "All",
@@ -245,6 +256,7 @@
       "OriginalItemSpec": "wwwroot\\Images\\about\\pexels-photo-346529.webp"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\about\\user.jpg",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
@@ -268,6 +280,12 @@
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+=======
+      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\facilities\\1.jpg",
+      "SourceId": "KarnelTravelGuideWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+>>>>>>> 7c3e382106f13a36d8cb9efc2f60e465ed576266
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "Images/facilities/1.jpg",
       "AssetKind": "All",
@@ -986,6 +1004,7 @@
       "OriginalItemSpec": "wwwroot\\Images\\spot\\pexels-photo-346529.webp"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\img\\aman.jpg",
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
@@ -2111,6 +2130,12 @@
       "SourceId": "KarnelTravelGuideWeb",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+=======
+      "Identity": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\js\\about.js",
+      "SourceId": "KarnelTravelGuideWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\",
+>>>>>>> 7c3e382106f13a36d8cb9efc2f60e465ed576266
       "BasePath": "_content/KarnelTravelGuideWeb",
       "RelativePath": "js/about.js",
       "AssetKind": "All",
