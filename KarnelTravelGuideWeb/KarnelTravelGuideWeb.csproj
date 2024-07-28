@@ -27,7 +27,6 @@
     <Folder Include="wwwroot\Images\index\" />
     <Folder Include="wwwroot\Images\about\" />
     <Folder Include="wwwroot\Images\facilities\" />
-    <Folder Include="wwwroot\Images\Information\" />
     <Folder Include="wwwroot\Images\spot\" />
   </ItemGroup>
 

@@ -23,17 +23,12 @@ namespace KarnelTravelGuideWeb.Controllers
             return View();
         }
 
+        public IActionResult Facilities()
+        {
+            return View();
+        }
+
         public IActionResult Search()
-        {
-            return View();
-        }
-
-        public IActionResult Contact()
-        {
-            return View();
-        }
-
-        public IActionResult Information()
         {
             return View();
         }

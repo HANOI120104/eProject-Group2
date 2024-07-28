@@ -5,8 +5,24 @@
       "PackagePath": "staticwebassets\\Images\\about\\1.jpg"
     },
     {
+      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\about\\2.jpg",
+      "PackagePath": "staticwebassets\\Images\\about\\2.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\about\\3.jpg",
+      "PackagePath": "staticwebassets\\Images\\about\\3.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\about\\4.jpg",
+      "PackagePath": "staticwebassets\\Images\\about\\4.jpg"
+    },
+    {
       "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\about\\pexels-photo-346529.webp",
       "PackagePath": "staticwebassets\\Images\\about\\pexels-photo-346529.webp"
+    },
+    {
+      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\about\\user.jpg",
+      "PackagePath": "staticwebassets\\Images\\about\\user.jpg"
     },
     {
       "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\Images\\facilities\\1.jpg",
@@ -187,6 +203,242 @@
     {
       "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\img\\aman.jpg",
+      "PackagePath": "staticwebassets\\img\\aman.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\img\\anlam.jpg",
+      "PackagePath": "staticwebassets\\img\\anlam.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\img\\benthanh.jpg",
+      "PackagePath": "staticwebassets\\img\\benthanh.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\img\\bus.jpg",
+      "PackagePath": "staticwebassets\\img\\bus.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\img\\busHCM.jpg",
+      "PackagePath": "staticwebassets\\img\\busHCM.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\img\\busOS.jpg",
+      "PackagePath": "staticwebassets\\img\\busOS.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\img\\caravelle.jpg",
+      "PackagePath": "staticwebassets\\img\\caravelle.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\img\\conrad.jpg",
+      "PackagePath": "staticwebassets\\img\\conrad.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\img\\cuchitunnels.jpg",
+      "PackagePath": "staticwebassets\\img\\cuchitunnels.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\img\\dotonbori.jpg",
+      "PackagePath": "staticwebassets\\img\\dotonbori.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\img\\duong.jpg",
+      "PackagePath": "staticwebassets\\img\\duong.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\img\\hanoi.jpg",
+      "PackagePath": "staticwebassets\\img\\hanoi.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\img\\hanoihotel.jpg",
+      "PackagePath": "staticwebassets\\img\\hanoihotel.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\img\\hanoiresort.jpg",
+      "PackagePath": "staticwebassets\\img\\hanoiresort.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\img\\hanoirestaurant.jpg",
+      "PackagePath": "staticwebassets\\img\\hanoirestaurant.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\img\\hoankiem.jpg",
+      "PackagePath": "staticwebassets\\img\\hoankiem.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\img\\hochiminh.jpg",
+      "PackagePath": "staticwebassets\\img\\hochiminh.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\img\\ichiran.jpg",
+      "PackagePath": "staticwebassets\\img\\ichiran.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\img\\intercontinental.jpg",
+      "PackagePath": "staticwebassets\\img\\intercontinental.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\img\\jwmarriott.jpg",
+      "PackagePath": "staticwebassets\\img\\jwmarriott.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\img\\kanidoraku.jpg",
+      "PackagePath": "staticwebassets\\img\\kanidoraku.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\img\\narisawa.jpg",
+      "PackagePath": "staticwebassets\\img\\narisawa.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\img\\notredame.jpg",
+      "PackagePath": "staticwebassets\\img\\notredame.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\img\\oldquarter.jpg",
+      "PackagePath": "staticwebassets\\img\\oldquarter.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\img\\osaka.jpeg",
+      "PackagePath": "staticwebassets\\img\\osaka.jpeg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\img\\osakacastle.jpg",
+      "PackagePath": "staticwebassets\\img\\osakacastle.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\img\\osakahotel.jpg",
+      "PackagePath": "staticwebassets\\img\\osakahotel.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\img\\osakaresort.jpg",
+      "PackagePath": "staticwebassets\\img\\osakaresort.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\img\\osakarestaurant.jpg",
+      "PackagePath": "staticwebassets\\img\\osakarestaurant.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\img\\parkhyatt.jpg",
+      "PackagePath": "staticwebassets\\img\\parkhyatt.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\img\\peninsula.jpg",
+      "PackagePath": "staticwebassets\\img\\peninsula.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\img\\refinery.jpg",
+      "PackagePath": "staticwebassets\\img\\refinery.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\img\\rex.jpg",
+      "PackagePath": "staticwebassets\\img\\rex.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\img\\saigonhotel.jpg",
+      "PackagePath": "staticwebassets\\img\\saigonhotel.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\img\\saigonresort.jpg",
+      "PackagePath": "staticwebassets\\img\\saigonresort.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\img\\saigonrestaurant.jpg",
+      "PackagePath": "staticwebassets\\img\\saigonrestaurant.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\img\\sensoji.jpg",
+      "PackagePath": "staticwebassets\\img\\sensoji.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\img\\shangrila.jpg",
+      "PackagePath": "staticwebassets\\img\\shangrila.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\img\\shibuya.jpg",
+      "PackagePath": "staticwebassets\\img\\shibuya.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\img\\sofitel.jpg",
+      "PackagePath": "staticwebassets\\img\\sofitel.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\img\\stregis.jpg",
+      "PackagePath": "staticwebassets\\img\\stregis.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\img\\subwayOS.jpg",
+      "PackagePath": "staticwebassets\\img\\subwayOS.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\img\\subwayTK.jpg",
+      "PackagePath": "staticwebassets\\img\\subwayTK.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\img\\sukiyabashi.jpg",
+      "PackagePath": "staticwebassets\\img\\sukiyabashi.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\img\\taxi.jpg",
+      "PackagePath": "staticwebassets\\img\\taxi.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\img\\taxiHCM.jpeg",
+      "PackagePath": "staticwebassets\\img\\taxiHCM.jpeg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\img\\taxiOS.jpg",
+      "PackagePath": "staticwebassets\\img\\taxiOS.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\img\\taxiTK.jpg",
+      "PackagePath": "staticwebassets\\img\\taxiTK.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\img\\templeofliterature.jpg",
+      "PackagePath": "staticwebassets\\img\\templeofliterature.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\img\\tokyo.jpg",
+      "PackagePath": "staticwebassets\\img\\tokyo.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\img\\tokyohotel.jpg",
+      "PackagePath": "staticwebassets\\img\\tokyohotel.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\img\\tokyoresort.jpg",
+      "PackagePath": "staticwebassets\\img\\tokyoresort.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\img\\tokyorestaurant.jpg",
+      "PackagePath": "staticwebassets\\img\\tokyorestaurant.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\img\\tokyotower.jpg",
+      "PackagePath": "staticwebassets\\img\\tokyotower.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\img\\train.jpg",
+      "PackagePath": "staticwebassets\\img\\train.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\img\\trainHCM.jpg",
+      "PackagePath": "staticwebassets\\img\\trainHCM.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\img\\trainTK.jpg",
+      "PackagePath": "staticwebassets\\img\\trainTK.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\img\\universal.jpg",
+      "PackagePath": "staticwebassets\\img\\universal.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\img\\villasong.jpg",
+      "PackagePath": "staticwebassets\\img\\villasong.jpg"
     },
     {
       "Id": "D:\\ASP.NET\\eProject-Group2\\KarnelTravelGuideWeb\\wwwroot\\js\\about.js",

@@ -9,6 +9,7 @@
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link href="~/js/site.js"  rel="stylesheet" />
     <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.5.0/font/bootstrap-icons.min.css" rel="stylesheet">
+
     @* <link rel="stylesheet" href="~/KarnelTravelGuideWeb.styles.css" asp-append-version="true" /> *@
 </head>
 <body>
@@ -17,8 +18,10 @@
             <div class="search-content">
                 <div class="row">
                     <div class="col-lg-11">
-                        <label for="">What are you looking for?</label>
-                        <input type="text" placeholder="Please enter the location you want to go" >
+                        <form asp-controller="MainPage" asp-action="Search" method="POST">
+                            <label for="">What are you looking for?</label>
+                            <input type="text" placeholder="Please enter the location you want to go" name = "query">
+                        </form>
                     </div>
                     <div class="btn-close-search col-lg-1" onclick="closeSearch()"><img src="~/Images/header/icons8-close-24.png" alt=""></div>
                 </div>
@@ -40,20 +43,20 @@
                                     <a asp-controller="Home" asp-action="About">About</a>
                                 </li>
                                 <li>
-                                    <a asp-controller="Home" asp-action="Search">Search</a>
+                                    <a asp-controller="MainPage" asp-action="Search">Search</a>
                                 </li>
                                 <li class="menu-information">
                                     <a href="">Information <span></span></a>
                                     <ul class="information-list">
-                                        <li><a asp-controller="Home" asp-action="Information">Tourist Spot</a></li>
-                                        <li><a href="">Travel Information</a></li>
-                                        <li><a href="">Hotel Information</a></li>
-                                        <li><a href="">Restaurant Information.</a></li>
-                                        <li><a href="">Resorts Information</a></li>
+                                        <li><a asp-controller="MainPage" asp-action="Information" asp-route-infoType="TouristSpot">Tourist Spot</a></li>
+                                        <li><a asp-controller="MainPage" asp-action="Information" asp-route-infoType="Hotel">Hotel</a></li>
+                                        <li><a asp-controller="MainPage" asp-action="Information" asp-route-infoType="Restaurant">Restaurant</a></li>
+                                        <li><a asp-controller="MainPage" asp-action="Information" asp-route-infoType="Resort">Resort</a></li>
+                                        <li><a asp-controller="MainPage" asp-action="Information" asp-route-infoType="Transportation">Transportation</a></li>
                                     </ul>
                                 </li>
                                 <li>
-                                    <a asp-controller="Home" asp-action="Contact">Contact</a>
+                                    <a asp-controller="MainPage" asp-action="Contact">Contact</a>
                                 </li>
                             </ul>
                         </nav>
@@ -155,6 +158,20 @@
             </div>
         </div>
     </footer>
+    <script>
+        document.addEventListener('DOMContentLoaded', (event) => {
+            const searchInput = document.querySelector('input[name="query"]');
+            if (searchInput) {
+                searchInput.addEventListener('keypress', function (e) {
+                    if (e.key === 'Enter') {
+                        e.preventDefault();
+                        this.closest('form').submit();
+                    }
+                });
+            }
+        });
+    </script>
+
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>

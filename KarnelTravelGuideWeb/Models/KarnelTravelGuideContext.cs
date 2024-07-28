@@ -31,7 +31,7 @@ public partial class KarnelTravelGuideContext : DbContext
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
 #warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see https://go.microsoft.com/fwlink/?LinkId=723263.
-        => optionsBuilder.UseSqlServer("Data Source=ADMIN-PC;Initial Catalog=KarnelTravelGuide;Integrated Security=True;Trust Server Certificate=True");
+        => optionsBuilder.UseSqlServer("Data Source=DESKTOP-MIOOGC6\\SQLEXPRESS;Initial Catalog=KarnelTravelGuide;Integrated Security=True;Trust Server Certificate=True");
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
@@ -56,13 +56,11 @@ public partial class KarnelTravelGuideContext : DbContext
 
         modelBuilder.Entity<Contact>(entity =>
         {
-            entity
-                .HasNoKey()
-                .ToTable("Contact");
+            entity.HasKey(e => e.ContactId).HasName("PK__Contact__024E7A869F18F31F");
 
-            entity.Property(e => e.ContactId)
-                .ValueGeneratedOnAdd()
-                .HasColumnName("contact_id");
+            entity.ToTable("Contact");
+
+            entity.Property(e => e.ContactId).HasColumnName("contact_id");
             entity.Property(e => e.ContactMessage)
                 .HasColumnType("text")
                 .HasColumnName("contact_message");
